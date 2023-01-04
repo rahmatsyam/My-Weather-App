@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Weather App</string>
+    <string name="txt_singapore">Singapore</string>
+    <string name="txt_zero">0°C</string>
+    <string name="txt_main">Main</string>
+    <string name="txt_detail">Detail</string>
+    <string name="txt_new_york">New York</string>
+    <string name="txt_mumbai">Mumbai</string>
+    <string name="image_weather">image weather</string>
+    <string name="delhi">Delhi</string>
+    <string name="sydney">Sydney</string>
+    <string name="melbourne">Melbourne</string>
+    <string name="city">City</string>
+</resources>
